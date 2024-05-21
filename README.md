@@ -1,13 +1,13 @@
 How to Install Ubuntu Desktop 24.04 LTS on VirtualBox
 Overview
-
 This guide will walk you through the steps required to install Ubuntu Desktop on your laptop or PC using VirtualBox.
 Prerequisites
     Ubuntu Desktop 24.04 LTS
     https://ubuntu.com/download/desktop/thank-you?version=24.04&architecture=amd64&lts=true
     Download VirtualBox
     https://www.virtualbox.org/wiki/Downloads
-     Ensure virtualization is enabled in your system BIOS.   
+    Ensure virtualization is enabled in your system BIOS.
+    If you need to read more follow offical tutorial:https://ubuntu.com/tutorials/install-ubuntu-desktop#9-ready-to-install
 Installation Steps
 
     Create a Bootable USB Stick: Use tools like Rufus or Etcher to create a bootable USB stick with the downloaded Ubuntu ISO.
