@@ -3,13 +3,11 @@ Overview
 
 This guide will walk you through the steps required to install Ubuntu Desktop on your laptop or PC using VirtualBox.
 Prerequisites
-
-    Ensure virtualization is enabled in your system BIOS.
-    Download the Ubuntu ISO image from here.
-    Download and install VirtualBox 7.0 from here.
-    A laptop or PC with at least 25GB of storage space.
-    A USB flash drive (12GB or above recommended).
-
+    Ubuntu Desktop 24.04 LTS
+    https://ubuntu.com/download/desktop/thank-you?version=24.04&architecture=amd64&lts=true
+    Download VirtualBox
+    https://www.virtualbox.org/wiki/Downloads
+     Ensure virtualization is enabled in your system BIOS.   
 Installation Steps
 
     Create a Bootable USB Stick: Use tools like Rufus or Etcher to create a bootable USB stick with the downloaded Ubuntu ISO.
